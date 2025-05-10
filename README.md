@@ -2,6 +2,8 @@
 
 <img src="assets/logo.png" alt="Proker Tracker Logo" width="100"/>
 
+[![Latest Release]](https://github.com/gerrymoeis/proker-tracker/releases/latest)
+
 ## Deskripsi
 
 Proker Tracker adalah aplikasi mobile untuk organisasi mahasiswa untuk melacak aktivitas program kerja. Aplikasi ini memungkinkan pengguna untuk mengelola program kerja, tugas, dan anggota tim dalam satu platform yang terintegrasi.
