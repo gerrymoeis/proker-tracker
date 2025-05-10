@@ -1,6 +1,6 @@
 # Proker Tracker
 
-<img src="proker_tracker/assets/logo.ico" alt="Proker Tracker Logo" width="100"/>
+<img src="assets/logo.png" alt="Proker Tracker Logo" width="100"/>
 
 ## Deskripsi
 
