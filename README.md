@@ -29,7 +29,7 @@ Proker Tracker adalah aplikasi mobile untuk organisasi mahasiswa untuk melacak a
 1. Pastikan Flutter SDK telah terinstal di komputer Anda. Jika belum, ikuti panduan instalasi di [flutter.dev](https://flutter.dev/docs/get-started/install).
 2. Clone repositori ini:
    ```
-   git clone https://github.com/yourusername/proker-tracker.git
+   git clone https://github.com/gerrymoeis/proker-tracker.git
    ```
 3. Masuk ke direktori proyek:
    ```
